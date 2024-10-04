@@ -1,3 +1,6 @@
+# Developed by: Ramya R
+# Register Number: 212223230169
+
 wumpus=[["Save","Breeze","PIT","Breeze"],
         ["Smell","Save","Breeze","Save"],
         ["WUMPUS","GOLD","PIT","Breeze"],
